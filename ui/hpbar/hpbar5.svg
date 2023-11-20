@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="300"
+   viewBox="0 0 264.58333 79.375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="hpbar5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#a3a3a3"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.36124088"
+     inkscape:cx="609.01191"
+     inkscape:cy="42.907657"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect25"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.779174,0,1 @ F,0,0,1,0,5.7853096,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.7073181,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,6.779174,0,1 @ F,0,0,1,0,5.7853096,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.7073181,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Diffuse Light"
+       id="filter26"
+       x="-0.0078831245"
+       y="-0.03109579"
+       width="1.0157662"
+       height="1.0621916">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="0.82984"
+         result="blur"
+         id="feGaussianBlur25" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         surfaceScale="10"
+         lighting-color="rgb(255,255,255)"
+         result="diffuse"
+         id="feDiffuseLighting25">
+        <feDistantLight
+           elevation="56"
+           azimuth="182"
+           id="feDistantLight25" />
+      </feDiffuseLighting>
+      <feComposite
+         in="diffuse"
+         in2="diffuse"
+         operator="arithmetic"
+         k1="1"
+         result="composite1"
+         id="feComposite25" />
+      <feComposite
+         in="composite1"
+         in2="SourceGraphic"
+         k1="1"
+         operator="arithmetic"
+         k3="1"
+         result="composite2"
+         id="feComposite26" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="display:none;opacity:0.134123;fill:#634a40;stroke-width:0.264583"
+       d="m 35.552603,124.7153 c -17.13902,2e-4 -31.0328098,13.89422 -31.0327316,31.03324 2.071e-4,17.13882 13.8939136,31.03253 31.0327316,31.03273 63.780822,-1.05651 127.784417,-0.46612 191.623957,-0.46612 V 173.55624 H 60.888007 c 2.233776,-3.18386 3.849153,-6.75925 4.761983,-10.53992 H 227.90933 V 124.93699 C 163.7964,124.78949 99.648855,125.24655 35.552603,124.7153 Z"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       id="path2"
+       style="display:none;opacity:1;fill:#c87137;stroke-width:0.271319"
+       d="M 71.39106,40.40321 A 32.023663,32.023663 0 0 1 39.367397,72.426872 32.023663,32.023663 0 0 1 7.3437347,40.40321 32.023663,32.023663 0 0 1 39.367397,8.3795471 32.023663,32.023663 0 0 1 71.39106,40.40321 Z"
+       inkscape:label="ring_big" />
+    <path
+       id="path3"
+       style="display:none;opacity:1;fill:#ffcc00;stroke-width:0.223305"
+       d="M 66.315181,40.40321 A 26.947784,25.77845 0 0 1 39.367397,66.181659 26.947784,25.77845 0 0 1 12.419614,40.40321 26.947784,25.77845 0 0 1 39.367397,14.62476 26.947784,25.77845 0 0 1 66.315181,40.40321 Z"
+       inkscape:label="ring_small" />
+    <path
+       id="path5"
+       style="display:inline;opacity:1;fill:#ffcc00;fill-opacity:1;stroke-width:0.271319;filter:url(#filter26)"
+       inkscape:label="frame_ring"
+       d="M 39.367623,8.3793335 C 21.681286,8.3792108 7.3436149,22.716882 7.3437378,40.403219 7.3436152,58.089555 21.681286,72.427226 39.367623,72.427104 c 9.004534,-8.3e-5 17.127665,-3.729338 22.945886,-9.712069 H 254.98547 c 2.70164,0 4.8767,-2.175073 4.8767,-4.876705 v -7.684285 c 0,-2.701634 -2.17506,-4.876705 -4.8767,-4.876705 H 70.981714 c 0.243964,-1.593344 0.409289,-3.212556 0.409277,-4.874121 H 253.20728 a 6.779174,6.779174 0 0 0 6.77943,-6.779432 V 14.16451 a 5.7853096,5.7853096 0 0 0 -5.78517,-5.7851765 z m 0,6.2456135 c 14.882733,4e-5 26.947606,11.541339 26.947709,25.778272 C 66.315229,54.640151 54.250356,66.18145 39.367623,66.18149 24.484688,66.181724 12.4195,54.640344 12.419397,40.403219 12.4195,26.166092 24.484688,14.624714 39.367623,14.624947 Z m 18.996256,0 H 250.71596 a 3.7073181,3.7073181 0 0 1 3.70727,3.707267 V 34.158122 H 70.776042 C 69.218322,26.327433 64.791598,19.361043 58.363879,14.624947 Z m 11.969812,33.81344 H 251.38104 c 1.72216,0 3.10834,1.386183 3.10834,3.108337 v 4.898926 c 0,1.722157 -1.38618,3.108338 -3.10834,3.108338 H 64.990348 c 2.454488,-3.278551 4.286925,-7.035226 5.343343,-11.115601 z" />
+  </g>
+</svg>
