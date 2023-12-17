@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="4.5932379"
-     inkscape:cx="127.14342"
+     inkscape:cx="176.99932"
      inkscape:cy="51.488733"
      inkscape:window-width="2560"
      inkscape:window-height="1531"
@@ -173,7 +173,8 @@
        x="-0.0053273096"
        y="-0.018102431"
        width="1.0106546"
-       height="1.0362049">
+       height="1.0362049"
+       inkscape:label="shadow">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.14312613"
@@ -188,6 +189,23 @@
        x2="39.791977"
        y2="8.5262947"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter48"
+       inkscape:label="hp_texture"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         id="feTurbulence49"
+         baseFrequency="0.10173005756578948"
+         seed="156"
+         numOctaves="4" />
+      <feColorMatrix
+         id="feColorMatrix49"
+         values="0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.80000000 0.0000000 " />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -215,6 +233,12 @@
          id="path37"
          transform="matrix(1.0206117,0,0,1.0206117,-0.15529081,-0.22944284)"
          inkscape:label="hp" />
+      <path
+         d="m 17.871777,4.5578613 c -0.393791,0 -0.48749,0.2268222 -0.234094,0.5281332 0.729361,0.8672771 1.296951,1.8587299 1.67535,2.9274699 0.11245,0.3176013 0.458321,0.5813598 0.7953,0.5813598 h 41.969532 a 0.3963123,0.3963123 0 0 0 0.39274,-0.4480346 L 62.078898,5.1588582 A 0.6905685,0.6905685 0 0 0 61.394185,4.5578613 Z"
+         style="display:inline;fill:#00f835;fill-opacity:1;stroke-width:0.797065;filter:url(#filter48)"
+         id="path48"
+         transform="matrix(1.0206117,0,0,1.0206117,-0.15529081,-0.22944284)"
+         inkscape:label="hp_texture" />
       <path
          d="m 17.871777,4.5578613 c -0.393791,0 -0.48749,0.2268222 -0.234094,0.5281332 0.729361,0.8672771 1.296951,1.8587299 1.67535,2.9274699 0.11245,0.3176013 0.458321,0.5813598 0.7953,0.5813598 h 41.969532 a 0.3963123,0.3963123 0 0 0 0.39274,-0.4480346 L 62.078898,5.1588582 A 0.6905685,0.6905685 0 0 0 61.394185,4.5578613 Z"
          style="display:inline;fill:url(#linearGradient39);fill-opacity:1;stroke-width:0.797065"
